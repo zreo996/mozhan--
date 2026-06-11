@@ -58,7 +58,7 @@
 
 ```bash
 # 1) 克隆仓库
-git clone https://github.com/你的用户名/mozhan.git
+git clone https://github.com/zreo996/mozhan.git
 cd mozhan
 
 # 2) 装依赖
